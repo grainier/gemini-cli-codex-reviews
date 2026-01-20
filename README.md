@@ -4,6 +4,8 @@ Bring OpenAI Codex's structured code review prompts to [Gemini CLI](https://gith
 
 What I like about Codex reviews is the strict bug categorization (P0-P3) and focus on actionable findings. The default Gemini chat doesn't have that structure, so I ported the prompts over as slash commands.
 
+<img width="1380" height="419" alt="sample-review" src="https://github.com/user-attachments/assets/c3ad4b81-c8a0-435e-933c-0a274226375b" />
+
 ## Source
 
 These commands are based on the review prompts from the OpenAI Codex repository:
